@@ -1,4 +1,6 @@
-[
+{
+  "tickets":
+  [
 {
 "type": "Balcony level",
 "price": 1170,
@@ -15,3 +17,4 @@
 "amount": 30
 }
 ]
+}
